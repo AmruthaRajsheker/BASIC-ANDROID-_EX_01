@@ -30,6 +30,11 @@ Developed by: Amrutha Rajsheker
 RegisterNumber: 212222110003
 ```
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## MainActivity.java:
 ```
 package com.example.exp1;
@@ -106,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT:
-![313549978-18c9e772-901f-4bcc-a684-12c2d24488ac](https://github.com/AmruthaRajsheker/BASIC-ANDROID-_EX_01/assets/119475943/3f15e59c-9eb7-4774-88a2-0f081e489c37)
+![313549978-18c9e772-901f-4bcc-a684-12c2d24488ac](https://github.com/AmruthaRajsheker/BASIC-ANDROID-_EX_01/assets/119475943/e6c3ac5f-81b6-4e03-8992-33cfa5074ec8)
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.

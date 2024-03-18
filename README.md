@@ -35,7 +35,7 @@ RegisterNumber: 212222110003
 <br/>
 <br/>
 
-## MainActivity.java:
+### MainActivity.java:
 ```
 package com.example.exp1;
 
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## activity_main.xml:
+### activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -110,7 +110,8 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## OUTPUT:
+
+## OUTPUT:  
 ![313549978-18c9e772-901f-4bcc-a684-12c2d24488ac](https://github.com/AmruthaRajsheker/BASIC-ANDROID-_EX_01/assets/119475943/e6c3ac5f-81b6-4e03-8992-33cfa5074ec8)
 
 ## RESULT:
